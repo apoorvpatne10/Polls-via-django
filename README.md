@@ -1,1 +1,1 @@
-# Django-based Poll's appMade some minor changes again to test some things out.----____----
+# Django-based Poll's appA reimplementation of previous Poll's app. Django is lit.
