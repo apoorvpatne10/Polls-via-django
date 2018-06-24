@@ -1,2 +1,1 @@
-......
-*necessary changes.*
+A reimplementated working version of previous project. Django is lit.
